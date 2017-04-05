@@ -8,4 +8,4 @@ Projeto para estudos para arquitetura de projetos IoT
 
 
 -
-Douglas Vinicius Esteves douglas at iotmakers . com . br
+* [Douglas Esteves](mailto:douglas@iotmakers.com.br)
