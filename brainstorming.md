@@ -12,6 +12,7 @@ Itens :
  - 
 ESP 8266
   - modulo 01
+  
 Definir um modelo simple de circuito, posteriomente alterar a arquitetura (módulo testado) para medir o consumo
 com outras arquitetura e módulos, gerando comparativos de consumo entre os estudos coletados.
 
@@ -19,7 +20,7 @@ com outras arquitetura e módulos, gerando comparativos de consumo entre os estu
   - C
   - Lua
 
- Em seguida construções de estudos com outras arquiteturas.
+Em seguida construções de estudos com outras arquiteturas.
 
 Douglas Esteves 
 17/03/2017
