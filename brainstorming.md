@@ -1,5 +1,7 @@
 First format of documentation in Portuguese. 
 
+Reproducible research in computacional science.
+
 Estidp sobre o consumo de energia de arquitetura e dispositivo para Internet of Things (IoT).
 
 Itens :
