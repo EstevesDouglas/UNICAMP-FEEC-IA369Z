@@ -5,4 +5,10 @@ IA369Z - Reprodutibilidade em Pesquisa Computacional.
 
 Projeto para estudos para arquitetura de projetos IoT
 
-[ Em construção ] Material em desenvolvimento no primeiro semestre de 2017.
+[Em construção] Material em desenvolvimento no primeiro semestre de 2017.
+
+
+
+#leituras
+* [Dúvidas estatísticas](http://revistapesquisa.fapesp.br/2017/03/17/duvidas-estatisticas/)
+
