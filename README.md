@@ -1,7 +1,7 @@
 # UNICAMP-FEEC-IA369Z 2017
 IA369Z - Reprodutibilidade em Pesquisa Computacional.
-# [Profa. Leticia rittner](http://www.leticiarittner.com/ia369_1s2017.html)
-# [Douglas Esteves](mailto:douglas@iotmakers.com.br)
+[Profa. Leticia rittner](http://www.leticiarittner.com/ia369_1s2017.html)
+[Douglas Esteves](mailto:douglas@iotmakers.com.br)
 
 
 Organização dos arquivos.
