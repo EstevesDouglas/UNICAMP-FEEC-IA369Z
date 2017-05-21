@@ -1,7 +1,10 @@
 # UNICAMP-FEEC-IA369Z 2017
 IA369Z - Reprodutibilidade em Pesquisa Computacional.
-* [Profa. Leticia rittner](http://www.leticiarittner.com/ia369_1s2017.html)
-* [Douglas Esteves](mailto:douglas@iotmakers.com.br)
+# [Profa. Leticia rittner](http://www.leticiarittner.com/ia369_1s2017.html)
+# [Douglas Esteves](mailto:douglas@iotmakers.com.br)
+
+
+Organização dos arquivos.
 
 * /class_notes
 * /data
@@ -11,7 +14,7 @@ IA369Z - Reprodutibilidade em Pesquisa Computacional.
 * /figures
 * /scr
 
-Projeto para estudos para arquitetura de projetos IoT
+Projeto para estudos de consumo de energia para arquitetura em projetos de IoT
 
 [Em construção] Material em desenvolvimento no primeiro semestre de 2017.
 
@@ -19,7 +22,3 @@ Projeto para estudos para arquitetura de projetos IoT
 
 #leituras
 * [Dúvidas estatísticas](http://revistapesquisa.fapesp.br/2017/03/17/duvidas-estatisticas/)
-#PandaDOC
-
-
-#
