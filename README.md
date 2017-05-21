@@ -19,7 +19,7 @@ Projeto para estudos de consumo de energia para arquitetura em projetos de IoT
 
 [Em construção] Material em desenvolvimento no primeiro semestre de 2017.
 
-* [Grafico consumo] https://thingspeak.com/channels/58985/charts/1?&median=15&results=60&dynamic=true&type=spline
+* [Grafico consumo](https://thingspeak.com/channels/58985/charts/1?&median=15&results=60&dynamic=true&type=spline)
 
 #leituras
 * [Dúvidas estatísticas](http://revistapesquisa.fapesp.br/2017/03/17/duvidas-estatisticas/)
