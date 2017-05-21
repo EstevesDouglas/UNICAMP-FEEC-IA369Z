@@ -31,9 +31,11 @@ Douglas Esteves
 17/03/2017
 
 
-
-
 Leituras de artigos 
 
 * [Dr. Victoria Stodden](http://web.stanford.edu/~vcs/)
 * [More About](https://ischool.illinois.edu/people/faculty/vcs)
+
+
+21/05/2017
+* [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7)
