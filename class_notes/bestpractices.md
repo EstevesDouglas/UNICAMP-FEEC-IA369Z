@@ -39,3 +39,4 @@ Leituras de artigos
 
 21/05/2017
 * [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7)
+* [Docker jupyter notebook](docker pull jupyter/notebook)
