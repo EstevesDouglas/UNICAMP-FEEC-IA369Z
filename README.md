@@ -10,7 +10,7 @@ Organização dos arquivos.
 * /class_notes
 * /data
 * /deliver
-* /develop
+* /dev
 * /examples
 * /figures
 * /scr
