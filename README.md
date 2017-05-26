@@ -19,6 +19,8 @@ Projeto para estudos de consumo de energia para arquitetura em projetos de IoT
 * /figures
 * /scr
 
-# rquivos
-Best_Practices.md
-LICENSE
+# Arquivos
+
+- Best_Practices.md
+
+- LICENSE
