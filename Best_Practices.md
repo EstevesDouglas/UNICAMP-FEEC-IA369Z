@@ -9,6 +9,13 @@ Utilização do Sistema Operacional Linux.
  Meu ambiente foi o Manjaro Linux, distribuição criada a partir da Arch Linux.
   Fácil de utilizar e instalar recursos do notebook (jupyter notebook).
   
+    
+
+* [Grafico consumo](https://thingspeak.com/channels/58985/charts/1?&median=15&results=60&dynamic=true&type=spline)
+
+#leituras
+* [Dúvidas estatísticas](http://revistapesquisa.fapesp.br/2017/03/17/duvidas-estatisticas/)
+
 
 16/05/2017
 * Utilização do overleaf -  exportar jupyter notebook para pdf
