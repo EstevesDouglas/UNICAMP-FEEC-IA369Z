@@ -5,11 +5,10 @@ First format of documentation in Portuguese.
 Reproducible research in computacional science.
 
 
-# Utilização do Sistema Operacional Linux.
+Utilização do Sistema Operacional Linux.
  Meu ambiente foi o Manjaro Linux, distribuição criada a partir da Arch Linux.
   Fácil de utilizar e instalar recursos do notebook (jupyter notebook).
   
-
 
 16/05/2017
 * Utilização do overleaf -  exportar jupyter notebook para pdf
@@ -23,4 +22,9 @@ Reproducible research in computacional science.
  * Estudos sobre licenças de Open Data.
  Utilizarei a publicação do arquivo .CSV junto com os arquivos do paper pelo Github. 
  Intenfico que não tenho necessidade de utilizar outra plataforma para divulgar as os dados.
+ Motivo é criar uma documentação mostrando como exportar as informações dos canais ou graficos.
  
+ Existem plataforma para publicar e descrever melhor as informações. 
+ Estudar mais sobre
+ *[git-RDM](https://github.com/ctjacobs/git-rdm)
+ *[OpenDataCommons](https://opendatacommons.org)
