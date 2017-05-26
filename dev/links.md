@@ -8,6 +8,8 @@
 # Tools
  * [nbconvert](https://github.com/jupyter/nbconvert-examples)
  * [Jupyter Notebook dicas](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
+ * [Pandas cookbook](https://github.com/jvns/pandas-cookbook)
+ * [Overleaf](https://www.overleaf.com/)
  
 # Open Data base
 * [Figshare](https://figshare.com/)
@@ -16,5 +18,5 @@
 
 # Module ESP8266
  * [ESP8266 Power Consumption](http://bbs.espressif.com/viewtopic.php?t=133)
- * []()
+ * [Prototype device](https://lhc.net.br/wiki/Campainha_IoT)
  
