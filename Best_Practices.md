@@ -15,8 +15,13 @@ Utilização do Sistema Operacional Linux.
 
 
 21/05/2017
+
+* Criei uma VM no Virtual Box 
+  CentOS7 - 
+ *[Configurando IP](https://github.com/EstevesDouglas/ZABBIX-Unicamp-Community/wiki/CentOS7-VM-Configurando-IP-Fixo-no-S.O)
 * [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7)
 * Docker jupyter notebook- docker pull jupyter/notebook
+
 
 24/05/2017
  * Estudos sobre licenças de Open Data.
