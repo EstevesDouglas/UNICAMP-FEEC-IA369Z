@@ -16,7 +16,7 @@ Utilização do Sistema Operacional Linux.
 
 21/05/2017
 * [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-centos-7)
-* [Docker jupyter notebook](docker pull jupyter/notebook)
+* Docker jupyter notebook- docker pull jupyter/notebook
 
 24/05/2017
  * Estudos sobre licenças de Open Data.
@@ -28,3 +28,4 @@ Utilização do Sistema Operacional Linux.
  Estudar mais sobre
  *[git-RDM](https://github.com/ctjacobs/git-rdm)
  *[OpenDataCommons](https://opendatacommons.org)
+ *[dat(https://datproject.org)
