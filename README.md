@@ -10,6 +10,9 @@ IA369Z - Reprodutibilidade em Pesquisa Computacional.
 
 Projeto para estudos de consumo de energia para arquitetura em projetos de IoT
 
+# Workflow
+![Workflow](https://github.com/EstevesDouglas/UNICAMP-FEEC-IA369Z/blob/master/figures/workflow03.png)
+
 # Ambiente 
 
 # Organização dos arquivos e suas descrições
