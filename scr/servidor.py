@@ -14,7 +14,7 @@ PORT_NUMBER = 9999
 # (e.g: /home/usuario/Music/Campainha)
 MP3_DIR = os.path.join(os.getenv('HOME'), 'Music', 'Campainha')
 VALID_CHARS = set(string.ascii_letters + string.digits + '_.')
-CHAVE_THINGSPEAK = 'XYZ11ZYX99XYZ1XX'
+CHAVE_THINGSPEAK = 'YOURKEY'
 # Salva o arquivo de log no diretório do usuário (e.g: /home/usuário/campainha.log)
 ARQUIVO_LOG = os.path.join(os.getenv('HOME'), 'campainha.log')
  
