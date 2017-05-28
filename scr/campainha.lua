@@ -4,8 +4,8 @@
 -- Se nenhuma resposta for recebida em 15 segundos coloca o ESP em DeepSleep.
 led_pin = 3
 status_led = gpio.LOW
-ip_servidor = "192.168.1.10"
-ip_campainha = "192.168.1.20"
+ip_servidor = "X.X.X.X."
+ip_campainha = "X.X.X.X."
 voltagem=3333
  
 function desliga_circuito()
@@ -44,7 +44,7 @@ function init_wifi()
     wifi.setmode(wifi.STATION)
     wifi.sta.config("SSID", "password")
     wifi.sta.connect()
-    wifi.sta.setip({ip=ip_campainha,netmask="255.255.255.0",gateway="192.168.1.1"})
+    wifi.sta.setip({ip=ip_campainha,netmask="255.255.255.0",gateway="X.X.X.X"})
  
     -- Aguarda conexão com Wifi antes de enviar o request.
     function try_connect()        
