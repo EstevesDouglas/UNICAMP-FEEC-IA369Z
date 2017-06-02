@@ -1,0 +1,7 @@
+
+How to update Overleaf from a Juypter Notebook
+https://medium.com/thoughts-philosophy-writing/how-to-update-overleaf-from-a-juypter-notebook-5469b1405fdc
+
+A tool that supports one-button reproducible workflows with the Jupyter Notebook and Scons.
+https://github.com/jhamrick/nbflow
+
