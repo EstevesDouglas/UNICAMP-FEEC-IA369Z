@@ -1,6 +1,6 @@
 # UNICAMP-FEEC-IA369Z 2017
 
-# Consumo de energia para dispositivo de IoT
+# Consumo de energia para dispositivo IoT
 
 IA369Z - Reprodutibilidade em Pesquisa Computacional.
 
