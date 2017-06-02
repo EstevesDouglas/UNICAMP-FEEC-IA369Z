@@ -53,8 +53,11 @@ Os arquivos seguem um padrão de nomeação para facilitar o entendimento sobre 
 - Best_Practices.md - Arquivo de boas práticas
 - LICENSE - condições de licença
 
-# Rodar o Paper.
+# Execução do Paper
 
 Paper está ano diretório deliver [Notebook](https://github.com/EstevesDouglas/UNICAMP-FEEC-IA369Z/blob/master/deliver/2017-06-01-estevesdouglas-notebook.ipynb)
 Código fonte do Servidor [Códigos](https://github.com/EstevesDouglas/UNICAMP-FEEC-IA369Z/blob/master/deliver/2017-05-16-estevesdouglas-codigos.ipynb)
+
+Necessita apenas do arquivo CSV para leitura de dados, respeitar apenas as organizações dos arquivos para que encontrem e o resultado seja exibido no Notebook.
+
 
