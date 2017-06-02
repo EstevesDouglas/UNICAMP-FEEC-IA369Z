@@ -9,7 +9,7 @@ Material produzido no primeiro semestre de 2017 - Faculdade de Engenharia da El�
 
 # Introdução
 
-Objetivo foi pesquisar melhor o conceito e importância de reprodutibilidade, criando um formato de coletar informações e avaliar o consumo de energia para diferentes arquiteturas de microcontroladores com módulos de comunicação de dispositivos usados para Internet das Coisas. 
+Segue o fluxo de comunicação entre os componentes, que podem ser modificado e alterado por novos componentes, conforme segue o formato da pesquisa. Idealizando um cenário para coletar e protótipo de um ambiente de estudo. Destaco os nomes dos arquivos para descrever em detalhes o seu funcionamento, podendo ser modificado e utilizado para outras tecnologias, entrando para contribuição da pesquisa.
 
 Segue uma descrição do Ambiente e seus componentes.
 
