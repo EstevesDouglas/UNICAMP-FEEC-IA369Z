@@ -40,4 +40,5 @@ Utilização do Sistema Operacional Linux.
  Estudar mais sobre
  *[git-RDM](https://github.com/ctjacobs/git-rdm)
  *[OpenDataCommons](https://opendatacommons.org)
- *[dat(https://datproject.org)
+ *[data](https://datproject.org)
+ *[CampainhaIoT](https://thingspeak.com/channels/58985/)
