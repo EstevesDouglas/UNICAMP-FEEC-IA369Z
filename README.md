@@ -6,7 +6,7 @@ IA369Z - Reprodutibilidade em Pesquisa Computacional.
 
 Material produzido no primeiro semestre de 2017 - Faculdade de Engenharia da Elétrica e de Computação UNICAMP.
 
-- [Profa. Leticia rittner](http://www.leticiarittner.com/ia369_1s2017.html)
+- [Professora. Leticia rittner](http://www.leticiarittner.com/ia369_1s2017.html)
 - [Douglas Esteves](mailto:douglas@iotmakers.com.br)
 
 # Introdução
