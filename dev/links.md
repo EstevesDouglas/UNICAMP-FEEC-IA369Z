@@ -20,3 +20,8 @@
  * [ESP8266 Power Consumption](http://bbs.espressif.com/viewtopic.php?t=133)
  * [Prototype device](https://lhc.net.br/wiki/Campainha_IoT)
  
+https://paulovasconcellos.com.br/como-criar-seu-primeiro-projeto-de-data-science-parte-2-de-2-cb9a2fe05eff
+
+http://pbpython.com/amortization-model-revised.html
+
+http://pbpython.com/creating-powerpoint.html
