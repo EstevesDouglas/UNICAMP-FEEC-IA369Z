@@ -50,7 +50,7 @@ O formato de notebook com documentação do projeto, centralizando  as informaç
 
 # Execução do Paper
 * Paper está localizado no diretório [deliver](/deliver/)
-* Visualizar os códigos fontes do dispositivo e servidor no [scr/](/src/)
+* Visualizar os códigos fontes do dispositivo e servidor no [/scr/](/src/)
 * Dados coletados e exportados na pasta [/data/](/data)/
 
 Para rodar o Paper é necessário ter o Ambiente configurado com o Jupyter Notebook e baixar os dados dessa pesquisa.
