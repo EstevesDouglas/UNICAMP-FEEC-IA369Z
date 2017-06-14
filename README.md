@@ -32,7 +32,7 @@ Plataforma Open Source para análise da Internet das Coisas, contém recursos co
 Etapa onde pode ser exportado informações coletadas no Thingspeak, ao acessar o Canal ou o gráfico do Canal com as informações relevantes, basta acionar o botão exportar e escolher o formato. lembrando que para rodar esse paper utilizamos o formato em CSV.
 
 ## database.csv
-Arquivo exportado da plataforma thingspeak, as informações está em um canal aberto com dados da Campainha IoT. Podem ser visualizada através do seguinte link[https://thingspeak.com/channels/58985/]
+Arquivo exportado da plataforma thingspeak, as informações está em um canal aberto com dados da Campainha IoT. Podem ser visualizada através do seguinte [link](https://thingspeak.com/channels/58985/) .
 
 ## delivier/2017-16-06-estevesdouglas-notebook.ipynb
 O formato de notebook com documentação do projeto, centralizando as informações referentes a pesquisa em reprodutibilidade computacional. Os arquivos seguem um padrão de nomeação para facilitar o entendimento sobre a versão e seu objetivo, conforme discutido durante a disciplina segue o padrão de data da versão com nome do notebook e seu objetivo, nesse caso versão final de notebook, criei também outros notebooks referenciando etapas dos estudos como leitura de arquivo CSV, outro apenas para mostrar o códigos fontes dos programas usados durante a pesquisa.
