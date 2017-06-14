@@ -3,6 +3,6 @@
 
 ## Execução do Paper
 
-* [Paper](/2017-06-14-estevesdouglas-notebook.ipynb)
+* [Paper](../2017-06-14-estevesdouglas-notebook.ipynb)
 
-* Exibição dos [Códigos](/2017-06-12-estevesdouglas-codigos.ipynb)
+* Exibição dos [Códigos](../2017-06-12-estevesdouglas-codigos.ipynb)
