@@ -47,7 +47,7 @@ O formato de notebook com documentação do projeto, centralizando as informaç�
 * LICENSE - condições de licença
 
 # Execução do Paper
-* Paper está localizado no diretório [deliver](/deliver/)
+* Paper está localizado no diretório [/deliver/](/deliver/)
 * Visualizar os códigos fontes do dispositivo e servidor no [/scr/](/src/)
 * Dados coletados e exportados na pasta [/data/](/data)/
 
