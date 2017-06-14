@@ -15,7 +15,7 @@ Objetivo foi pesquisar melhor o conceito e importância de reprodutibilidade, cr
 
 Segue o fluxo de comunicação entre os componentes que envolve todo o projeto, todos os pontos podem ser modificado e alterado por novos componentes, conforme segue o formato da pesquisa. Idealizando um cenário para coletar informações gerados por um protótipo em ambiente de estudo. Destaco os nomes dos arquivos nesse workflow para facilitar as indentificação, descrevendo com mais detalhes cada item. Para essa pesquisa iremos trabalhar apenas na leitura do arquivo com informações geradas pelas etapas citadas que podem ser modificada conforme segue a licença do código e projeto. Também podem ser substituto algumas tecnologias citadas para esse estudo.
 
-![Workflow](../figures/workflow04.png)
+![Workflow](/figures/workflow04.png)
 
 ## campainha.lua
 Código fonte usado para rodar no dispositivo é na linguagem de programação LUA onde sua função é ao ser acordado roda função de conectar na rede local, pegar informações da Tensão da bateria para uma plataforma online depois desliga o dispositivo, esse hardware é uma campainha um protótipo usado no Hackerspace de Campinas, utilizado o módulo ESP8266 model 01, usando o mínimo possível de recurso para avaliar o consumo de energia, este dispositivo funciona da seguinte forma, ao ser acionado por um botão, ele é ligado, conectado na rede local e acionado uma campainha e em seguida registra o total de tensão em um dashboard de da plataforma thingspeak.
