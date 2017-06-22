@@ -51,3 +51,7 @@ O formato de notebook com documentação do projeto, centralizando as informaç�
 * Dados coletados e exportados na pasta [/data/](/data)/
 
 Para rodar o Paper é necessário ter o Ambiente configurado com o Jupyter Notebook e baixar os dados dessa pesquisa.
+
+Basta ter instalar o [Jupyter](http://jupyter.org/install.html)
+
+Em seguida Instalar [Anaconda](https://www.continuum.io/downloads)
