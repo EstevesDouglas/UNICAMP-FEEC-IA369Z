@@ -54,3 +54,7 @@ Para rodar o Paper é necessário ter o Ambiente configurado com o Jupyter Noteb
 
 Começar instalando o [Jupyter](http://jupyter.org/install.html), seguido por [Anaconda](https://www.continuum.io/downloads), para conseguir copiar o projeto também recomendo o [git](https://git-scm.com/) assim simplifica a forma de clonar o projeto para o seu equipamento.
 
+Utilizei o [Python 2.7.13](https://www.python.org/downloads/)
+
+Bibliotecas a serem instaladas, [altair](https://github.com/altair-viz/altair)
+[matplotlib](https://matplotlib.org/users/installing.html)
