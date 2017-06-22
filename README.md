@@ -52,6 +52,5 @@ O formato de notebook com documentação do projeto, centralizando as informaç�
 
 Para rodar o Paper é necessário ter o Ambiente configurado com o Jupyter Notebook e baixar os dados dessa pesquisa.
 
-Basta ter instalar o [Jupyter](http://jupyter.org/install.html)
+Começar instalando o [Jupyter](http://jupyter.org/install.html), seguido por [Anaconda](https://www.continuum.io/downloads), para conseguir copiar o projeto também recomendo o [git](https://git-scm.com/) assim simplifica a forma de clonar o projeto para o seu equipamento.
 
-Em seguida Instalar [Anaconda](https://www.continuum.io/downloads)
